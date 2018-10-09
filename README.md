@@ -1,3 +1,2 @@
 # BURNING
-first repository
 hello
